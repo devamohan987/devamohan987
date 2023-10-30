@@ -12,17 +12,12 @@ public class WebElement {
 		
 	}
 
-	public void submit() {
-		// TODO Auto-generated method stub
-		
-	}
-
 	public String getText() {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
-	public String getAttribute(String string) {
+	public String getText() {
 		// TODO Auto-generated method stub
 		return null;
 	}

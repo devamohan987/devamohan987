@@ -12,9 +12,4 @@ public class By {
 		return null;
 	}
 
-	public static By cssSelector(String string) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
 }
