@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devamohan987
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Automation Testing
+- 🌱 I’m certified Automation Tester
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me - devamohan987@gmail.com
 
